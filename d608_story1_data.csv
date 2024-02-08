@@ -1,4 +1,4 @@
-st,st_code,funding_bil,pop_20203,funding_per_capita,party,evotes
+state_name,st_code,funding_bil,pop_20203,funding_per_capita,party,evotes
 ALABAMA,AL,3,"5,108,468",$587.26 ,R,9
 ALASKA,AK,3.7,"733,406","$5,044.95 ",R,3
 AMERICAN SAMOA,,0.0686,"43,914","$1,562.14 ",,
